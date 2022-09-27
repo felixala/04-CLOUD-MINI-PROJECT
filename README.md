@@ -2,7 +2,7 @@
 ## This is a Cloud mini project using Microservice Architecture.
 
 
-![Microservice](https://github.com/felixala/04-CLOUD-MINI-PROJECT/tree/main/SCREENSHOTS/MicroserviceArchitecture.png)
+![Microservice](https://github.com/felixala/04-CLOUD-MINI-PROJECT/blob/main/SCREENSHOTS/MicroserviceArchitecture.png)
 
 
 ## Implementation
